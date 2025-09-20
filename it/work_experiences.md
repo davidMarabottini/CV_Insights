@@ -51,6 +51,7 @@ PHP5, mysql, jquery, bootstrap
 **Mansioni:**  
 Creazione di procedure ed algoritmi per i bandi della regione Lombardia in javascript.  
 Creazione pdf con fop
+Creazione query spesso di pivotizazzione per reportistica verso clienti regionali
 
 **Tecnologie utilizzate:**  
 Javascript, Oracle V9, apache FOP
