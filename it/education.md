@@ -1,4 +1,25 @@
 # Curriculum Vitae - Formazione
+---
+
+### AKG (10/2025 - in corso)
+**Corso:** Power bi. power query ed excel avanzato per data analyst
+
+**Dettagli:**
+* Excel avanzato, power pivot, tabelle pivot, codice DAX, formattazioni condizionali
+* Power query, pulizia dei dati, acquisizione dati da fonti eterogenee
+* Power BI
+---
+
+### Unimi (10/2025 - in corso)  
+**Corso:** Analisi dei dati  
+
+**Dettagli:**  
+* Fondamenti di probabilità e statistica
+* Inferenza statistica
+* Analisi bivariata e modelli lineari
+* Analisi in R
+
+**Link corso:** [https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2026/analisi-dei-dati-2](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2026/analisi-dei-dati-2)
 
 ---
 
