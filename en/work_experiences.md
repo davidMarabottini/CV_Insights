@@ -3,55 +3,52 @@
 ---
 
 ### Key2Business (06/2019 - 05/2025)  
-**Role:** Front-end developer  
+**Role:** Senior Frontend Developer  
 
-**Responsibilities:**  
-- Front-end development of various web portals and management applications, ui building, api integration, unit testing, design system and AMP pages for various clients.
+**Duties:**  
+- Frontend development, unit testing, Storybook setup, and performance optimization for large corporate portals.  
+- Participation in Scrum events, and occasionally log and query analysis for XStore reporting.
 
-- Active participation in cross-functional and self-managed agile teams
+**Technologies, IDEs, and tools used:**  
+Reactjs, Nextjs, Redux/saga/selectors, Jest, Storybook, AMP, SCSS, SQL, JavaScript, Visual Studio Code, Git, Jira, Jenkins, TypeScript, Material UI, Styled Components, Redux-slice, Miro
 
-- AM on xStore
-
-**Technologies, IDE and tools used:**  
-Reactjs, Nextjs, Redux/saga/selectors, jest, storybook, AMP, SCSS, SQL, javascript, visual studio code, git, Jira, Jenkins, typescript, material ui, styled components, redux-slice, miro
-
-**Work methodologies:**  
+**Work methodology:**  
 Scrum, Kanban, Waterfall
 
 ---
 
-### Blazar (02/2018 - 01/2019)  
-**Role:** Front-end developer  
+### Blazar (02/2018 - 05/2019)  
+**Role:** Frontend Developer  
 
-**Responsibilities:**  
-Development of web applications for various clients in front-end.
+**Duties:**  
+Frontend web application development for various clients.
 
-**Technologies, IDE and tools used:**  
+**Technologies, IDEs, and tools used:**  
 React, SCSS, JSS, JavaScript, Visual Studio Code, Git, GitLab, Trello
 
-**Work methodologies:**  
+**Work methodology:**  
 Scrum
 
 ---
 
 ### JigGiga (04/2017 - 12/2017)  
-**Role:** Full-stack developer  
+**Role:** Fullstack Developer  
 
-**Responsibilities:**  
-Full-stack developer in PHP5 + JavaScript/jQuery for black-box management system based on a custom MVC framework.
+**Duties:**  
+Fullstack development in PHP5 + JavaScript/jQuery for a black box management system based on a custom MVC framework.
 
 **Technologies used:**  
 PHP5, MySQL, jQuery, Bootstrap
 
 ---
 
-### Modis/Business Changers (01/2016 - 04/2017)  
-**Role:** Back-end developer  
+### Modis / Business Changers (01/2016 - 04/2017)  
+**Role:** Back-end Developer  
 
-**Responsibilities:**  
-Development of procedures and algorithms for regional funding programs in JavaScript.  
-PDF generation with Apache FOP
-Creation of often pivoting queries for reporting to regional clients
+**Duties:**  
+- Development of procedures and algorithms for public tenders of the Lombardy Region in JavaScript.  
+- PDF generation with FOP.  
+- Creation of pivot-style queries for reporting to regional clients.
 
 **Technologies used:**  
 JavaScript, Oracle V9, Apache FOP
@@ -59,23 +56,21 @@ JavaScript, Oracle V9, Apache FOP
 ---
 
 ### Runtime Solutions (01/2015 - 10/2015)  
-**Role:** SQL Reporting Expert  
+**Role:** Query / Reporting Specialist  
 
-**Responsibilities:**  
-Creation of reports in Crystal interfaced with SAP Business One.  
-Query development
-Database management
+**Duties:**  
+Development of queries for SAP-based databases and report/document layouts in Crystal Reports for various clients.
 
 **Technologies used:**  
-Crystal Report, SQL Server, SAP HANA
+Crystal Reports, SQL Server, SAP HANA
 
 ---
 
 ### Collaboration with Crenway S.r.l. (07/2014 - 11/2014)  
-**Role:** Full-stack developer  
+**Role:** Fullstack Developer  
 
-**Responsibilities:**  
+**Duties:**  
 Development and monitoring of various web portals.
 
 **Technologies used:**  
-ASP.NET Framework, C#, JavaScript, SQL (MS SQL Server), Linq, Web Services, Visual Studio, Team Foundation, Team Explorer, Google Analytics, Windows Azure
+ASP.NET Framework, C#, JavaScript, SQL (MS SQL Server), LINQ, Web Services, Visual Studio, Team Foundation, Team Explorer, Google Analytics, Windows Azure
