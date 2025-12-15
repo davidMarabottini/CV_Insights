@@ -1,10 +1,10 @@
 # Curriculum Vitae - Risorse Aggiuntive / Additional Resources
 
--
 Benvenuto/a!  
 Questo repository contiene materiali e informazioni aggiuntive pensati come **estensioni del mio curriculum**.  
 Qui troverai dettagli completi sulle mie **esperienze lavorative** e sulla mia **formazione**, organizzati in formato leggibile e consultabile online.
 [CV in Italiano](https://github.com/davidMarabottini/CV_Insights/blob/main/it/cv_david_one_page.pdf)
+
 ---
 
 Welcome!  
