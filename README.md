@@ -1,5 +1,6 @@
 # Curriculum Vitae - Risorse Aggiuntive / Additional Resources
 
+-
 Benvenuto/a!  
 Questo repository contiene materiali e informazioni aggiuntive pensati come **estensioni del mio curriculum**.  
 Qui troverai dettagli completi sulle mie **esperienze lavorative** e sulla mia **formazione**, organizzati in formato leggibile e consultabile online.
