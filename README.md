@@ -6,13 +6,9 @@ Welcome! Here you can find my **curriculum vitae**, **personal projects**, **cer
 
 ## 📄 Curriculum Vitae
 
-**Nuovo template:**
-- 🇮🇹 [CV Italiano – Expanded](./cv/david_marabottini/cv-it-david_marabottini-dark-modern.pdf)
-- 🇬🇧 [CV English – Expanded](./cv/david_marabottini/cv-en-david_marabottini-dark-modern.pdf)
+- 🇮🇹 [Italian CV](./cv/cv-it-david_marabottini-dark-modern.pdf)
+- 🇬🇧 [English CV](./cv/cv-en-david_marabottini-dark-modern.pdf)
 
-**Vecchio template:**
-- 🇮🇹 [CV Italiano – Expanded](./cv/david_marabottini/cv-it-david_marabottini-human.pdf)
-- 🇬🇧 [CV English – Expanded](./cv/david_marabottini/cv-en-david_marabottini-human.pdf)
 
 > Note: The GitHub-generated CVs do not contain sensitive personal data (email, phone number, location).  
 > You can find full contact details in my locally generated CV or on my business card.  
