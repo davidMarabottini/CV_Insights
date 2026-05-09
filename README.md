@@ -42,7 +42,9 @@ or 🔗 https://www.scrum.org/user/1419987
   https://github.com/davidMarabottini/bayes_spam_detector  
 
 ### 🔹 Modular CV Rendering Engine
-- Engine built with **XSLT/XSL-FO**, multi-profile and multi-language  
+- Engine built with **XSLT/XSL-FO**, multi-profile and multi-language
+- Applies modern frontend engineering principles to document generation:
+  atomic design, component composition, reusable rendering layers and design systems
 - CI/CD pipeline to generate PDFs using GitHub Actions  
 - https://github.com/davidMarabottini/curriculum  
 
@@ -61,8 +63,8 @@ or 🔗 https://www.scrum.org/user/1419987
 
 ## 📊 Key Skills
 
-- **Frontend:** React, Next.js, TypeScript, Redux, HTML5/CSS3, SEO  
-- **Backend & Data:** SQL (CTE, Window Functions, Rollup), Python, Machine Learning, XSLT/XSL-FO  
+- **Frontend:** React, Next.js, TypeScript, Redux, HTML5/CSS3, SEO, jquery
+- **Backend & Data:** SQL (CTE, Window Functions, Rollup), Python, Machine Learning, XSLT/XSL-FO, PHP
 - **Methodologies:** Scrum, complex workflow management, CI/CD  
 - **Tools:** GitHub Actions, Jupyter, Power BI, advanced Excel  
 
