@@ -4,7 +4,8 @@ Welcome! Here you can find my **curriculum vitae**, **personal projects**, **cer
 
 ---
 
-## 📄 Curriculum Vitae
+## 📄 Curriculum Vitae ![Last Commit](https://img.shields.io/github/last-commit/davidMarabottini/CV_Insights)
+
 
 * template modern dark
 - 🇮🇹 [Italian CV](./cv/david_marabottini/cv-it-david_marabottini-modern-dark.pdf)
