@@ -36,8 +36,8 @@ I CV vengono generati automaticamente tramite pipeline di CI/CD. Scegli il templ
 
 ### 🔹 Lucy
 Applicazione gestionale end-to-end per l'amministrazione aziendale che integra database relazionali e servizi esterni.
-* ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) **Frontend:** Interfaccia utente modulare per la gestione dei flussi operativi (lucy-fe)[https://github.com/davidMarabottini/lucy-fe].
-* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white) **Backend:** API REST strutturate in Flask per la logica di business e l'orchestrazione dei dati (lucy-be)[https://github.com/davidMarabottini/lucy-be].
+* ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) **Frontend:** Interfaccia utente modulare per la gestione dei flussi operativi [lucy-fe](https://github.com/davidMarabottini/lucy-fe).
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white) **Backend:** API REST strutturate in Flask per la logica di business e l'orchestrazione dei dati [lucy-be](https://github.com/davidMarabottini/lucy-be).
 
 ### 🔹 Spam Detector Web Platform
 Applicazione end-to-end per l'analisi e il rilevamento dello spam.
