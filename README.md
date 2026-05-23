@@ -78,7 +78,7 @@ Applicazione end-to-end per l'analisi e il rilevamento dello spam.
 
 ---
 
-## 🔗 Contact & External Links
+## 🔗 External Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Marabottini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-m-551aba81/)
 
@@ -88,57 +88,3 @@ Applicazione end-to-end per l'analisi e il rilevamento dello spam.
 > Note: The GitHub-generated CVs do not contain sensitive personal data (email, phone number, location).  
 > You can find full contact details in my locally generated CV or on my business card.  
 > You can also reach me via LinkedIn.
-
----
-
-## 🏆 Certifications
-
-- [PSM I – Professional Scrum Master I](./certificates/PSM_I.pdf)  
-- [PSM II – Professional Scrum Master II](./certificates/PSM_II.pdf)  
-
-or 🔗 https://www.scrum.org/user/1419987
-
----
-
-## 💻 Personal Projects
-
-### 🔹 Spam Detector Web Platform
-- Frontend: React + TypeScript  
-  https://github.com/davidMarabottini/fe-spam-detector  
-- Backend: Python + Flask + Naive Bayes  
-  https://github.com/davidMarabottini/bayes_spam_detector  
-
-### 🔹 Modular CV Rendering Engine
-- Engine built with **XSLT/XSL-FO**, multi-profile and multi-language
-- Applies modern frontend engineering principles to document generation:
-  atomic design, component composition, reusable rendering layers and design systems
-- CI/CD pipeline to generate PDFs using GitHub Actions  
-- https://github.com/davidMarabottini/curriculum  
-
-### 🔹 Hypercube Building Framework
-- Conceptual model to visualize team balance  
-- https://github.com/davidMarabottini/Hypercube_building_framework  
-
----
-
-## 📐 Mathematical Projects
-
-- [Generalized Towers of Hanoi Conjecture (Zenodo)](https://zenodo.org/records/15802510)  
-- [Statistical Relations Theorem (SymPy)](https://github.com/davidMarabottini/relazione_media_deviazione_standard/blob/main/ipotesi-triangolo-prodotto-media-deviazione-standard.ipynb)  
-
----
-
-## 📊 Key Skills
-
-- **Frontend:** React, Next.js, TypeScript, Redux, HTML5/CSS3, SEO, jquery
-- **Backend & Data:** SQL (CTE, Window Functions, Rollup), Python, Machine Learning, XSLT/XSL-FO, PHP
-- **Methodologies:** Scrum, complex workflow management, CI/CD  
-- **Tools:** GitHub Actions, Jupyter, Power BI, advanced Excel  
-
----
-
-## 🔗 External Links
-
-- [LinkedIn](https://www.linkedin.com/in/david-m-551aba81/)  
-- [Stroke prediction models – GitHub](https://github.com/davidMarabottini/studio_data_science/tree/main/000-in-evidenza/02-stroke)  
-- [R analysis – GitHub](https://github.com/davidMarabottini/esercizi_R)  
