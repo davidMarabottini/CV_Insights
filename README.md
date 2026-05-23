@@ -34,10 +34,16 @@ I CV vengono generati automaticamente tramite pipeline di CI/CD. Scegli il templ
 
 ## 💻 Personal Projects
 
+### 🔹 Lucy
+Applicazione gestionale end-to-end per l'amministrazione aziendale che integra database relazionali e servizi esterni.
+* ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) **Frontend:** Interfaccia utente modulare per la gestione dei flussi operativi.
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) **Backend:** API REST strutturate in Flask per la logica di business e l'orchestrazione dei dati.
+* ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white) **Integrazioni:** Gestione e ottimizzazione di un database di medie dimensioni integrato nativamente con le API esterne di **Libemax**.
+
 ### 🔹 Spam Detector Web Platform
 Applicazione end-to-end per l'analisi e il rilevamento dello spam.
 * ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) **Frontend:** [fe-spam-detector](https://github.com/davidMarabottini/fe-spam-detector)
-* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) **Backend:** [bayes_spam_detector](https://github.com/davidMarabottini/bayes_spam_detector) *(Algoritmo Naive Bayes)*
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) **Backend:** [bayes_spam_detector](https://github.com/davidMarabottini/bayes_spam_detector) *(Backend + Algoritmo Naive Bayes)*
 
 ### 🔹 Modular CV Rendering Engine
 * ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) **CI/CD:** Pipeline per la generazione e compilazione automatica dei PDF.
